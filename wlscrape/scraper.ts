@@ -2,7 +2,6 @@
 
 import axios from 'axios';
 import cheerio from 'cheerio';
-import { error } from 'console';
 
 interface Product {
     title: string;
